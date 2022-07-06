@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **APP in SwiftUI and Flutter**
 
-- 🌱 I’m currently learning **APP in SwiftUI and Flutter**
-
 - 👯 I’m looking to collaborate on **project in UIKit and SwiftUI**
 
-- 💬 Ask me about **Java, C# and Swift**
+- 💬 Ping me about **Java, C# and Swift**
 
 - 📫 How to reach me **marco.spicciani@gmail.com**
 
