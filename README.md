@@ -1,7 +1,7 @@
 Hi there 👋
 
 <a href="mailto:marco.spicciani@gmail.com?"><img width="40" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"/></a>
-<a href="https://www.linkedin.com/in/marco-spicciani-07a5776/"><img width="40" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"/></a>
+<a href="https://www.linkedin.com/in/marco-spicciani-07a5776/"><img width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360"/></a>
 
 
 I'm Marco a Full-Stack Developer working in Tuscany, Italy.
